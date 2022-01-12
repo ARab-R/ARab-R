@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Increase the visibility of Arabic R users through particpation in international R conferences and meetups"
         icon: far fa-question-circle
       - title: "Open-source R projects"
-        desc: "Help institutionsa and experineced R users to start their own their open-source project and attact contributions."
+        desc: "Help institutionsa and experineced R users to start their own open-source project and attact contributions."
         icon: fab fa-markdown
 
   timeline:
