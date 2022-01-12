@@ -15,6 +15,7 @@ This website for ARab-R was built using [Agency Jekyll Theme](https://github.com
 - Change image in the the landing page
 - Add Code of Conduct
 - Open ana issue for all of these and future improvements.
+- Create a form/mailing list in the 'join us' button. 
 
 ## License
 
