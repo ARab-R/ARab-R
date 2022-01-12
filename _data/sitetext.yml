@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to ARab-R Community!
-    text: A space for All Arabic R lovers and bloggers
+    text:  R lovers & bloggers
     button: Join Us
     buttonlink: "#contact"
 
