@@ -62,8 +62,8 @@ en: &DEFAULT_EN
     section: about
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Amazing Team"
+    text: "Meet our team"
     subtext:  
     section: team
     people:
