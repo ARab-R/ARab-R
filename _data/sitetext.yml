@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Join Us
     buttonlink: "#contact"
 
-  vision:
+  services:
     title: "Our Vision"
     text: "Creating a sustainable capacity building for Arabic R users through support, networking and increasing their visibility to drive the creation of more useR/R-Ladies groups in the region"
     section: vision
