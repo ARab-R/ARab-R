@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     people:
       - name: "Name"
         role: "Role"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -79,7 +79,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Name"
         role: "Role"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
