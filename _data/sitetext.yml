@@ -58,7 +58,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Our Story"
-    body: "The growth of the R community in the MENA region is limited by the language barrier, which makes the communities that exist around R (e.g. rOpneScie, R-ladies, ..) not well-known in MENA. This community aims is dedicated to expanding the R community in the Arabic region, which it engages researchers and data scientists in MENA through in-person collaboration on open source projects."
+    body: "The growth of the R community in the MENA region is limited by the language barrier, which makes the international communities that exist around R (e.g. rOpneScie, R-ladies, ..) not well-known. This space is dedicated to promote the R community in the Arabic region, by engaging researchers and data scientists through open source projects."
     section: about
 
   team:
