@@ -3,7 +3,7 @@
 
 This website for ARab-R was built using [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) 
 
-## Contributing :two_hearts:
+## Contributing :hearts:
 - If you like it, leave your star in this project :star2:
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
 - Please follow our [FIXME - contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/FIXME/blob/main/CONTRIBUTING.md). 
