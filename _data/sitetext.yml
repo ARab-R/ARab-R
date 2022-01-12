@@ -58,13 +58,13 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Our Story"
-    body: "The growth of the R community in the MENA region is limited by the language barrier, which makes the international communities that exist around R (e.g. rOpneScie, R-ladies, ..) not well-known. This space is dedicated to promote the R community in the Arabic region, by engaging researchers and data scientists through open source projects."
+    body: "The growth of the R community in the MENA region is limited by the language barrier, which makes the international communities that exist around R (e.g. rOpneScie, R-Ladies, ..) are not well-known. This space is dedicated to promote the R community in the Arabic region, by engaging researchers and data scientists through open source projects."
     section: about
 
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext:  
     section: team
     people:
       - name: "Name"
