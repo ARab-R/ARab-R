@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     button: Join Us
     buttonlink: "#contact"
 
-  services:
+  vision:
     title: "Our Vision"
     text: "Creating a sustainable capacity building for Arabic R users through support, networking and increasing their visibility to drive the creation of more useR/R-Ladies groups in the region"
-    section: services
+    section: vision
     list:
       - title: "Networking"
         desc: "Build a diverse and vibrant R community within the Arab nation. We connect R users to each other and the international R community"
@@ -60,24 +60,6 @@ en: &DEFAULT_EN
     text: "Our Story"
     body: "The growth of the R community in the MENA region is limited by the language barrier, which makes the communities that exist around R (e.g. rOpneScie, R-ladies, ..) not well-known in MENA. This community aims is dedicated to expanding the R community in the Arabic region, which it engages researchers and data scientists in MENA through in-person collaboration on open source projects."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
