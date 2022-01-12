@@ -7,6 +7,14 @@ This website for ARab-R was built using [Agency Jekyll Theme](https://github.com
 - If you like it, leave your star in this project :star2:
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
 - Please follow our [FIXME - contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/FIXME/blob/main/CONTRIBUTING.md). 
+## TODO
+> There's TOO many things need to be don ebut these are list of the priorities
+- Remove the Services section
+- Make teh website bilingual 
+- Add the profile of the team
+- Change image in the the landing page
+- Add Code of Conduct
+- Open ana issue for all of these and future improvements.
 
 ## License
 
