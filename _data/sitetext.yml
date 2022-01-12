@@ -40,18 +40,18 @@ en: &DEFAULT_EN
     events:
       - title: "Our Humble Beginnings"
         year: "Jan 2021"
-        desc: "A meeting of Arabic R users, where they were attempted to identify the barriers and how to overcome them to expand the R community in the Arabic region"
+        desc: "A Focus group consists of R users identified barriers for the low particpation of experienced R users in the international conferences and provided recommandations to expand the R community in the Arabic region"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Our Community is Born"
         year: "July 2011"
-        desc: "During useR! 2021 Conference, we contributed to an incubator dedicated to expanding the R community in the Arabic region, and engage researchers and data scientists through in-person collaboration on open source projects!"
-        image: assets/img/timeline/2.jpg
+        desc: "During useR! 2021 Conference, an incubator dedicated to expanding the R community in the Arabic region recommanded a capacity building programe to support R users!"
+        image: assets/img/timeline/5.png
         alt:
       - title: "ARab-R is created"
         year: "Jan 2022"
-        desc: "The main working group in at the incubator initiated this capacity building initiative to promote the work of Arabic R uesr and support participation of people from MENA, in international conferences like useR! 2021"
-        image: assets/img/timeline/3.jpg
+        desc: "An outcome of the incubator is this capacity building initiative to promote the work of Arabic R uesr and support participation in international conferences"
+        image: assets/img/timeline/6.jpeg
         alt: image alt text
     end: "Be Part <br> of Our <br> Story!"
 
